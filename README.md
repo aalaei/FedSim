@@ -1,4 +1,4 @@
-# Federated Learninig(FL) simulation
+# Federated Learning(FL) simulation
 A Tutorial on how to use TFF framework is prepared [here](A_Tutorial_on_FL_API.ipynb) thanks great documentation of [TFF](https://www.tensorflow.org/federated).
 
 **Installing Required Libraries**
