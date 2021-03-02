@@ -7,7 +7,7 @@ you need to install tensorflow_federated inroder to run these simulations
     $ conda create -n fed python=3.8
     $ conda activate fed
     $ conda install jupyter notebook
-    $ conda install tensorflow====2.3.2
+    $ conda install tensorflow==2.3.2
     $ pip install tensorflow_federated
 ```
 for GPU acceleration you need to download and install [cuda 10.1](https://developer.nvidia.com/cuda-10.1-download-archive-base) and [cudnn-11.0](https://developer.nvidia.com/rdp/cudnn-archive) and add them to your path environment variable.
